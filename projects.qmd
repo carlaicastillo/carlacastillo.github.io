@@ -1,0 +1,19 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+A collection of data analytics projects demonstrating my approach to data management, statistical analysis, visualization, and data-driven decision-making using SQL, Python, R, and business intelligence tools.
+
+> **Note:** This portfolio demonstrates my analytical approach using publicly available, anonymized, or simulated datasets. My professional experience includes work with sensitive government data that cannot be shared publicly. The projects presented here are designed to showcase technical skills, analytical methodology, and data storytelling rather than represent official analyses or recommendations.
+Data sources may include: U.S. Census Bureau, FHFA, FTC, World Bank, Bureau of Labor Statistics, data.gov, and other publicly available datasets.
+
+
+## Featured Projects
+
+- SQL Case Studies
+- Python Data Analysis & Dashboards
+- R Statistical Visualizations
+- Power BI Dashboards *(coming soon)*
+- Tableau Dashboards *(coming soon)*

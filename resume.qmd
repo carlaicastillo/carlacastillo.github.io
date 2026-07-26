@@ -1,0 +1,101 @@
+---
+title: "Resume"
+---
+
+# Resume
+
+[📄 Download My Resume](resume.pdf)
+
+## Professional Summary
+
+I'm a Senior Data Analyst with more than 10 years of experience transforming complex data into actionable insights for business and executive decision-making. My experience spans business intelligence, data automation, statistical analysis, and workflow optimization, supporting U.S. federal agencies and national statistical programs.
+
+I specialize in designing analytical solutions using SQL, Python, R, and business intelligence tools to improve data quality, automate reporting, and deliver meaningful insights.
+
+## Core Competencies
+
+### Data Analytics
+- SQL
+- Python
+- R
+- Statistical Analysis
+- Exploratory Data Analysis (EDA)
+
+### Business Intelligence
+- Power BI
+- Tableau
+- Plotly
+- KPI Development
+- Dashboard Design
+
+### Data Management
+- SQL Server
+- ETL Pipelines
+- Data Validation
+- Data Quality
+- Relational Databases
+
+### Microsoft Power Platform
+- Power Apps
+- Power Automate
+- Power Query
+- SharePoint
+
+### Professional Skills
+- Business Process Improvement
+- Requirements Gathering
+- Stakeholder Management
+- User Acceptance Testing (UAT)
+- Technical Documentation
+- Executive Reporting
+
+## Professional Experience
+
+### Senior Data Analyst – Team Lead
+**Federal Housing Finance Agency (FHFA)** *(Contractor through RER Solutions)*
+
+**September 2020 – June 2026**
+
+- Led enterprise analytics and business intelligence initiatives supporting regulatory oversight.
+- Designed automated data validation processes that significantly improved data quality.
+- Developed Power Platform applications to automate business workflows and reporting.
+- Built executive dashboards and KPI reporting for leadership decision-making.
+- Performed advanced analytics using SQL, Python, and R.
+
+**Related projects are available in the Projects section.**
+
+---
+
+### Senior Data Analyst
+**National Statistics Office of Ecuador (INEC)**
+
+**December 2015 – October 2019**
+
+- Led a team redesigning Ecuador's National Labor Force Survey.
+- Developed ETL pipelines and large-scale data integration processes.
+- Performed labor market analyses using SQL, R, and statistical methods.
+- Supported evidence-based policymaking through official statistics.
+
+**Related projects are available in the Projects section.**
+
+## Education
+
+**Master of Arts in Development Economics**
+FLACSO Ecuador
+
+**Bachelor of Science in Economics & Finance**
+National Polytechnic School (EPN)
+
+**Licence Droit, Économie et Gestion**
+Université Jean Monnet, France
+
+## Professional Development
+
+- Project Management Professional (PMP®) Exam Preparation *(In Progress)*
+- Stanford Online – Machine Learning
+
+---
+
+**Interested in learning more?**
+
+Explore my **Projects** page to see how I've applied these skills to real-world analytics problems.

@@ -1,0 +1,5 @@
+---
+title: "About"
+---
+
+I help organizations turn complex data into practical, reliable insights. My work combines analytics, automation, and stakeholder communication to deliver tools that support better decisions and smoother operations.

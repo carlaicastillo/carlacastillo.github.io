@@ -1,0 +1,67 @@
+---
+title: false
+page-layout: full
+---
+
+::: {.columns}
+
+::: {.column width="60%"}
+
+# Carla Castillo
+
+## Senior Data Analyst
+
+**Business Intelligence • SQL • Python • R**
+
+I help organizations transform complex data into actionable insights through analytics, automation, and data storytelling.
+
+Over the past 10+ years, I've designed enterprise reporting solutions, automated workflows, improved data quality, and built analytical tools that support strategic decision-making.
+
+[📊 View Projects](projects.qmd){.btn .btn-primary}
+
+[📄 Resume](resume.pdf){.btn .btn-outline-primary}
+
+:::
+
+::: {.column width="40%"}
+
+![](images/profile.png){fig-alt="Carla Castillo" width="320"}
+
+:::
+
+:::
+## Featured Projects
+
+::: {.grid}
+
+::: {.g-col-4}
+
+### 📊 Enterprise Data Validation
+
+Designed an automated SQL/Python validation framework.
+
+**SQL • Python • Statistics**
+
+:::
+
+::: {.g-col-4}
+
+### 📈 Labor Market Analytics
+
+Official statistics and labor force survey analysis.
+
+**SQL • R • ETL**
+
+:::
+
+::: {.g-col-4}
+
+### 📉 Interactive Dashboards
+
+Interactive visualizations built with Plotly.
+
+**Python • Plotly**
+
+:::
+
+:::
